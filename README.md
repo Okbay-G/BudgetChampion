@@ -47,12 +47,12 @@ This project is intended to:
 
 ---
 
-### 🗄️ Database and ORM
+###  Database and ORM
 
 > 🚧 Describe the database and your ORM entities. Ideally, a diagram documents the database and it is described together with the ORM entities.
 ---
 
-## ✅ Project Requirements
+##  Project Requirements
 
 ---
 
@@ -86,7 +86,7 @@ All relevant data is managed via an ORM (e.g. SQLModel or SQLAlchemy). For the p
 
 ---
 
-## ⚙️ Implementation
+##  Implementation
 
 ---
 
@@ -98,7 +98,7 @@ All relevant data is managed via an ORM (e.g. SQLModel or SQLAlchemy). For the p
 
 ---
 
-### 📂 Repository Structure
+###  Repository Structure
 ---
 
 ### How to Run
@@ -107,11 +107,11 @@ All relevant data is managed via an ORM (e.g. SQLModel or SQLAlchemy). For the p
 ### Libraries Used
 
 - nicegui
-- sqlalchemy / sqlmodel
-- pydantic
-- ...
+-  
+- 
 
-## 👥 Team & Contributions
+
+##  Team & Contributions
 
 ---
 
